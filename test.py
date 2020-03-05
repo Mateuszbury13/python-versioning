@@ -1,7 +1,7 @@
 
 def main():
 
-    words = ["banana","tefołn","koza", "doggo"]
+    words = ["banana","tefołn","koza", "doggo", "soczek"]
 
 
     words = ["banana", "broccoli", 'mamma',"cat", "shepadoodle"]
